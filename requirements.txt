@@ -7,3 +7,5 @@ matplotlib
 scikit-learn
 tensorflow
 boto3
+tf2onnx
+onnx
